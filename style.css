@@ -1,0 +1,320 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    width: 1518px;
+    margin: 0px auto;
+}
+
+.irorun_logo {
+    margin-left: 100px;
+    margin-top: 45px;
+    width: 150px;
+}
+
+.irorun_top {
+    display: flex;
+    gap: 40px;
+}
+
+#blue_irorun {
+    margin-top: 56px;
+    margin-left: 225px;
+    color: #0082F3;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 10px;
+    cursor: pointer;
+}
+
+.contact_ironun {
+    margin-top: 56px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 10px;
+    cursor: pointer;
+}
+
+.irorun_button {
+    border-radius: 0px 0px 6px 6px;
+    margin-top: 7px;
+    border: 0px solid;
+    width: 36px;
+    height: 108px;
+    color: black;
+    background-color: #39CDCC;
+    position: absolute;
+    left: 0px;
+}
+
+.irorun_button_text {
+
+    transform: rotate(90deg);
+}
+
+.button_container {
+    position: relative;
+}
+
+
+.img_container {
+    position: relative;
+}
+
+.human_irorun {
+    position: absolute;
+    right: 50px;
+}
+
+.instant_loans {
+    margin-top: 230px;
+    margin-left: 212px;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.get_irorun {
+    margin-top: 32px;
+    margin-left: 212px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.play_irorun {
+    margin-left: 212px;
+    margin-top: 30px;
+}
+
+.human_iroran {
+    position: absolute;
+    margin-top: 234px;
+    left: 210px;
+}
+
+.own_terms {
+    margin-top: 282px;
+    margin-left: 740px;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.immg_container {
+    position: relative;
+}
+
+.human_irorann {
+    position: absolute;
+    bottom: -200px;
+    left: 210px;
+}
+
+.savings_option {
+    margin-top: 32px;
+    margin-left: 740px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.apple_irorun {
+    margin-left: 740px;
+    margin-top: 30px;
+}
+
+.work_irorun {
+    margin-top: 98px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    color: #333333;
+}
+
+.purple {
+    margin-top: 40px;
+    background-color: #582EFF;
+    width: 288px;
+    height: 12px;
+    margin-left: 150px;
+}
+
+.how_it_works {
+    display: flex;
+}
+
+.set_up {
+    margin-left: 150px;
+    width: 288px;
+    height: 327px;
+    box-shadow: 0px 0px 10px #B7B7B7;
+}
+
+.phone_irorun {
+    margin-top: 42px;
+    margin-left: 118px;
+}
+
+.account {
+    margin-top: 54px;
+    margin-left: 65px;
+}
+
+.dowload {
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: 20px;
+    margin-top: 31px;
+}
+
+.color {
+    display: flex;
+}
+
+.orange {
+    margin-top: 40px;
+    background-color: #FF814A;
+    width: 288px;
+    height: 12px;
+    margin-left: 150px;
+}
+
+.apply_loan {
+    margin-left: 150px;
+    width: 288px;
+    height: 327px;
+    box-shadow: 0px 0px 10px #B7B7B7;
+}
+
+.loan {
+    margin-top: 54px;
+    margin-left: 82px;
+}
+
+.qualifed {
+
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.green {
+    margin-top: 40px;
+    background-color: #31C5A1;
+    width: 288px;
+    height: 12px;
+    margin-left: 150px;
+}
+
+.get_yor_cash {
+    margin-left: 150px;
+    width: 288px;
+    height: 327px;
+    box-shadow: 0px 0px 10px #B7B7B7;
+}
+
+.cash {
+    margin-top: 54px;
+    margin-left: 78px;
+}
+
+.hands_cash {
+    margin-top: 42px;
+    margin-left: 100px;
+}
+
+.qualifedd {
+    margin-left: 20px;
+    margin-top: 31px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.apply {
+    margin-left: 56px;
+    margin-top: 31px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.score {
+    margin-left: 32px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.wallet {
+    margin-left: 32px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.verify {
+    margin-left: 37px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer {
+    background-color: #31C5A1;
+    height: 371px;
+    width: 1518px;
+    margin-top: 30px;
+}
+
+.footer_text {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    color: white;
+    text-align: center;
+    padding-top: 131px;
+}
+
+.play__store {
+    margin-top: 54px;
+    margin-left: 645px;
+}
+
+.irorun_footer {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 150px;
+    height: 40px;
+}
+
+.footer_two {
+    display: flex;
+    height: 271px;
+}
+
+.text {
+    margin-top: 50px;
+    margin-left: 160px;
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+
+}
+
+.link {
+    text-decoration: none;
+    color: #333333;
+}
